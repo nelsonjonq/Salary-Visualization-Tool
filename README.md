@@ -1,7 +1,8 @@
 # Salary Visualization Tool
+https://nelsonjonq.github.io/Salary-Visualization-Tool/
 ### Description
 
-This tool allows you to visualize compensation bands based on level:
+This tool allows you to visualize compensation bands based on level.
 
 ### Screenshot
 
