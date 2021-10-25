@@ -65,7 +65,10 @@ const RangeBarGraph = () => {
       );
 
       const res = [];
-      for (const value of Object.values(formattedData)) {
+      const values = Object.values(formattedData);
+      values.sort();
+
+      for (const value of values) {
         res.push(value);
       }
 
