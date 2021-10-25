@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Salary-Visualization-Tool/static/css/main.4228b988.chunk.css",
+    "main.js": "/Salary-Visualization-Tool/static/js/main.74f425d4.chunk.js",
+    "main.js.map": "/Salary-Visualization-Tool/static/js/main.74f425d4.chunk.js.map",
+    "runtime-main.js": "/Salary-Visualization-Tool/static/js/runtime-main.03487a96.js",
+    "runtime-main.js.map": "/Salary-Visualization-Tool/static/js/runtime-main.03487a96.js.map",
+    "static/js/2.7c4c98f8.chunk.js": "/Salary-Visualization-Tool/static/js/2.7c4c98f8.chunk.js",
+    "static/js/2.7c4c98f8.chunk.js.map": "/Salary-Visualization-Tool/static/js/2.7c4c98f8.chunk.js.map",
+    "static/js/3.f5ec27d6.chunk.js": "/Salary-Visualization-Tool/static/js/3.f5ec27d6.chunk.js",
+    "static/js/3.f5ec27d6.chunk.js.map": "/Salary-Visualization-Tool/static/js/3.f5ec27d6.chunk.js.map",
+    "index.html": "/Salary-Visualization-Tool/index.html",
+    "static/css/main.4228b988.chunk.css.map": "/Salary-Visualization-Tool/static/css/main.4228b988.chunk.css.map",
+    "static/js/2.7c4c98f8.chunk.js.LICENSE.txt": "/Salary-Visualization-Tool/static/js/2.7c4c98f8.chunk.js.LICENSE.txt",
+    "static/media/gamine.4dc28026.csv": "/Salary-Visualization-Tool/static/media/gamine.4dc28026.csv",
+    "static/media/hookfish.0402614d.csv": "/Salary-Visualization-Tool/static/media/hookfish.0402614d.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03487a96.js",
+    "static/js/2.7c4c98f8.chunk.js",
+    "static/css/main.4228b988.chunk.css",
+    "static/js/main.74f425d4.chunk.js"
+  ]
+}
